@@ -1,8 +1,6 @@
 # SCT_WT_03
-
-
-
 🎮 Tic-Tac-Toe 
+
 An interactive, stylish, and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Designed with a glowing neon theme to enhance user engagement while maintaining a clean and professional feel.
 -------
 📌 Project Summary
