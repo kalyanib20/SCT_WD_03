@@ -1,9 +1,10 @@
 # SCT_WT_03
-🎮 Neon Tic-Tac-Toe
+🎮 Tic-Tac-Toe
 An interactive, stylish, and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Designed with a glowing neon theme to enhance user engagement while maintaining a clean and professional feel.
 -----
 📌 Project Summary
-This project demonstrates a browser-based implementation of the classic Tic-Tac-Toe game, enabling two users to play against each other in real time on the same device. The interface is built entirely in a single HTML file using modern frontend practices.
+Build a Tic-Tac-Toe web application against each other or computer. Implement function to handle user click, drag game, start, and check for winning condition.
+
 -----
 ✅ Key Features
 - 🎨 Neon-Themed Interface: Bright cyberpunk colors with soft shadows and smooth hover animations.
