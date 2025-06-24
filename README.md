@@ -11,7 +11,7 @@ Build a Tic-Tac-Toe web application against each other or computer. Implement fu
 - 🧠 Two-Player Logic: Alternate turns between Player X and Player O with live status updates.
 - ✔️ Win and Draw Detection: Real-time game state tracking with winning pattern checks.
 - 🔁 Restart Game Button: Resets the board and game state with a single click.
-- 🚫 Drag and Text Selection Disabled: Ensures smooth play by preventing unintended interactions.
+- 🚫 **Drag and Text Selection Disabled:** Ensures smooth play by preventing unintended interactions.
 - 🔒 Single Click Lockout: Once a cell is clicked, it cannot be changed (avoiding move overwrite).
   -----
 🚀 How to Run
