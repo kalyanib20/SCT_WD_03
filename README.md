@@ -33,13 +33,15 @@ start index.html    # Windows
 - Player X always starts.
 - The game status will update with win or draw announcements.
 ----
-  🧠 What I Learned
+🧠 What I Learned
   
 - How to build responsive layouts using CSS Grid.
 - Implementing interactive behavior with JavaScript DOM manipulation.
 - Managing application state using simple arrays and condition checks.
 - Styling for visual appeal using glowing effects, transitions, and color contrast.
 - Writing modular code that is easy to read, maintain, and extend.
+----
+💡 Output/Review
 
 https://github.com/user-attachments/assets/49524d81-23d8-42b5-8156-72e6891c8797
 
