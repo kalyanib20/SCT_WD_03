@@ -17,7 +17,7 @@ Build a Tic-Tac-Toe web application against each other or computer. Implement fu
 -----
 🚀 How to Run
 - Download or Clone this Repository
-git clone https://github.com/your-username/neon-tic-tac-toe.git
+git clone [https://github.com/your-username/neon-tic-tac-toe.git](https://github.com/kalyanib20/SCT_WT_03/blob/main/Tic%20tac%20toe.html)
 - Open the Game
 - Locate the index.html file inside the project folder.
 - Double-click it, or open it in your web browser using:
