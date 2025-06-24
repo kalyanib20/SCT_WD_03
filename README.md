@@ -13,7 +13,7 @@ Build a Tic-Tac-Toe web application against each other or computer. Implement fu
 - 🔁 Restart Game Button: Resets the board and game state with a single click.
 - 🚫 **Drag and Text Selection Disabled:** Ensures smooth play by preventing unintended interactions.
 - 🔒 Single Click Lockout: Once a cell is clicked, it cannot be changed (avoiding move overwrite).
-  -----
+-----
 🚀 How to Run
 - Download or Clone this Repository
 git clone https://github.com/your-username/neon-tic-tac-toe.git
